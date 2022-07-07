@@ -18,4 +18,4 @@ Full dashboard for viewing statistics, managing products, payment history, etc.
 * Discounts codes with expiration dates.
 
 
-![alt text](https://imgur.com/a/itdpMrf)
+https://imgur.com/a/itdpMrf
