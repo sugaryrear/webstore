@@ -1,0 +1,6 @@
+paypal.log
+*.log
+.env
+.env.*
+Thumbs.db
+.DS_Store
