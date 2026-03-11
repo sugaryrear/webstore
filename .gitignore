@@ -1,6 +1,6 @@
 paypal.log
-*.log
+.log
 .env
-.env.*
+.env.
 Thumbs.db
 .DS_Store
