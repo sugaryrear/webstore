@@ -20,3 +20,5 @@ Full dashboard for viewing statistics, managing products, payment history, etc.
 
 
 ![webdev1](https://user-images.githubusercontent.com/78560906/177886619-a29e38ba-bbf3-49d3-b3b5-ffd08f8a7b92.png)
+
+see it in action: https://www.alora.io/store/
